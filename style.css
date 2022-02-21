@@ -1,0 +1,45 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    font-family: Arial, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: #ee9b00;
+    background: #0a9396;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+h1 {
+    color: #001219;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: #001219;
+}
+
+li {    
+    color: #ee9b00;
+}
+
+a {
+    text-decoration: none;
+    color: #ee9b00;
+
+}
+
+a:hover {
+    color: #e9d8a6;
+}
+
+.titulo {
+    color: #001219;
+}
